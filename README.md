@@ -42,7 +42,9 @@ Contribuir
 Reporta bugs o problemas de rendimiento en Issues
 Sugiere mejoras o nuevas funciones
 Si quieres desarrollar juegos para la futura tienda, mantente atento a la documentación
-Apóyalo https://discord.gg/pckbURv3U
+Apóyalo 
+
+https://discord.gg/pckbURv3U
 
 Si te gusta la idea de democratizar la realidad virtual, dale una estrella al repo — ayuda a que más gente lo descubra y el proyecto pueda crecer.
 
