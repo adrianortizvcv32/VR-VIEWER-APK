@@ -38,6 +38,8 @@ Instala y sigue las instrucciones dentro de la app.
 Contribuir
 
 ¿Programador, diseñador, tester o simplemente entusiasta de la VR? Toda ayuda suma:
+             apk code
+  https://github.com/adrianortizvcv32/vrviewerapk.git
 
 Reporta bugs o problemas de rendimiento en Issues
 Sugiere mejoras o nuevas funciones
