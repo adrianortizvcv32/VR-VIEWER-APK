@@ -46,6 +46,8 @@ Sugiere mejoras o nuevas funciones
 Si quieres desarrollar juegos para la futura tienda, mantente atento a la documentación
 Apóyalo
 
+https://discord.gg/m9wJYh2F9
+
 Si te gusta la idea de democratizar la realidad virtual, dale una estrella al repo — ayuda a que más gente lo descubra y el proyecto pueda crecer.
 
 Hecho con la meta de que la VR deje de ser un lujo y se convierta en algo al alcance de todos.
