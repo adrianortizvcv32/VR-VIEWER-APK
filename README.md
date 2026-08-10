@@ -1,7 +1,5 @@
-VR Viewer APK
 Lleva la Realidad Virtual al límite de tu smartphone — sin gafas caras, sin PC, sin límites.
 
-Mostrar imagen Mostrar imagen Mostrar imagen
 
 La idea
 
@@ -19,7 +17,7 @@ Gratis y de código abierto — sin suscripciones, sin letra pequeña.
 Tienda de juegos integrada — un espacio donde desarrolladores puedan publicar y los usuarios descargar juegos hechos específicamente para la app, sin necesidad de PC, tal como funcionan Meta Quest y otros visores standalone.
 Estado actual
 
-Este proyecto está en una fase temprana de desarrollo. Ya existe una primera versión funcional (APK), pero hay muchísimos detalles por pulir: rendimiento, latencia, compatibilidad de dispositivos, interfaz de usuario, y la futura tienda de juegos.
+Este proyecto está en una fase temprana de desarrollo. Ya existe una primera versión funcional (APK), pero hay muchísimos detalles por pulir: rendimiento, latencia, compatibilidad de dispositivos, interfaz de usuario, y como objetivo hacer la futura tienda de juegos, para que puedan mandar juegos y probarlos sin necesidad de PC.
 
 Es un proyecto hecho con esfuerzo personal. Si te gusta la idea, cualquier tipo de ayuda o feedback es bienvenida.
 
@@ -45,8 +43,6 @@ Reporta bugs o problemas de rendimiento en Issues
 Sugiere mejoras o nuevas funciones
 Si quieres desarrollar juegos para la futura tienda, mantente atento a la documentación
 Apóyalo
-
-https://discord.gg/m9wJYh2F9
 
 Si te gusta la idea de democratizar la realidad virtual, dale una estrella al repo — ayuda a que más gente lo descubra y el proyecto pueda crecer.
 
