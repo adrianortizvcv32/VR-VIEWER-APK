@@ -79,7 +79,7 @@ Es un proyecto hecho con esfuerzo personal. Si te gusta la idea, cualquier tipo 
 
 ### Instalación
 
-1. Descarga el APK desde la sección de [**Releases**](https://github.com/adrianortizvcv32/vrviewerapk/releases).
+1. Descarga el APK desde la sección de [**Releases**](https://github.com/adrianortizvcv32/VR-VIEWER-OFICIAL/releases).
 2. Habilita **"Fuentes desconocidas"** en tu Android.
 3. Instala y sigue las instrucciones dentro de la app.
 
@@ -167,7 +167,7 @@ This is a project built through personal effort. If you like the idea, any kind 
 
 ### Installation
 
-1. Download the APK from the [**Releases**](https://github.com/adrianortizvcv32/vrviewerapk/releases) section.
+1. Download the APK from the [**Releases**](https://github.com/adrianortizvcv32/VR-VIEWER-OFICIAL/releases) section.
 2. Enable **"Unknown sources"** on your Android device.
 3. Install and follow the instructions inside the app.
 
