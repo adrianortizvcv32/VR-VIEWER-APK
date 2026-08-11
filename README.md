@@ -64,9 +64,7 @@ Sugiere mejoras o nuevas funciones
 Si quieres desarrollar juegos para la futura tienda, mantente atento a la documentación
 Apóyalo 
 
-<p align="center">
-  <img src="discord.png" width="300">
-</p>
+
 
 https://discord.gg/pckbURv3U
 
