@@ -96,6 +96,7 @@ Requisitos y guía detallada de configuración: *próximamente*.
 | Recurso | Enlace |
 |---|---|
 | APK code | [vrviewerapk.git](https://github.com/adrianortizvcv32/vrviewerapk.git) |
+| ios ipa code |  |
 | Driver | [MiDriverVR.git](https://github.com/adrianortizvcv32/MiDriverVR.git) |
 
 - Reporta bugs o problemas de rendimiento en **Issues**.
