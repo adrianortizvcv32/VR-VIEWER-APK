@@ -71,3 +71,10 @@ https://discord.gg/pckbURv3U
 Si te gusta la idea de democratizar la realidad virtual, dale una estrella al repo — ayuda a que más gente lo descubra y el proyecto pueda crecer.
 
 Hecho con la meta de que la VR deje de ser un lujo y se convierta en algo al alcance de todos.
+## Apóyalo 💙
+
+Si te gusta la idea de democratizar la realidad virtual, considera apoyar el proyecto:
+
+**PayPal:** [paypal.me/AdrianOrtizHidalgo](https://paypal.me/AdrianOrtizHidalgo)
+
+**Discord:** https://discord.gg/pckbURv3U
