@@ -47,6 +47,10 @@ Instala y sigue las instrucciones dentro de la app.
 
 Contribuir
 
+<p align="center">
+  <img src="app.png" width="300">
+</p>
+
 ¿Programador, diseñador, tester o simplemente entusiasta de la VR? Toda ayuda suma:
 
              apk code
