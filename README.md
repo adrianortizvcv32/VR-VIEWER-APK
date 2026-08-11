@@ -65,7 +65,7 @@ Si quieres desarrollar juegos para la futura tienda, mantente atento a la docume
 Apóyalo 
 
 <p align="center">
-  <img src="app.png" width="300">
+  <img src="discord.png" width="300">
 </p>
 
 https://discord.gg/pckbURv3U
