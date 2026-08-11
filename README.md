@@ -96,7 +96,7 @@ Requisitos y guía detallada de configuración: *próximamente*.
 | Recurso | Enlace |
 |---|---|
 | APK code | [vrviewerapk.git](https://github.com/adrianortizvcv32/vrviewerapk.git) |
-| ios ipa code |  |
+| iOS ipa code | 🚧 Próximamente |
 | Driver | [MiDriverVR.git](https://github.com/adrianortizvcv32/MiDriverVR.git) |
 
 - Reporta bugs o problemas de rendimiento en **Issues**.
@@ -183,7 +183,7 @@ Developer, designer, tester, or just a VR enthusiast? All help counts:
 | Resource | Link |
 |---|---|
 | APK code | [vrviewerapk.git](https://github.com/adrianortizvcv32/vrviewerapk.git) |
-| ios ipa code |  |
+| iOS ipa code | 🚧 Coming soon |
 | Driver | [MiDriverVR.git](https://github.com/adrianortizvcv32/MiDriverVR.git) |
 
 - Report bugs or performance issues in **Issues**.
